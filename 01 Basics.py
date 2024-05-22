@@ -15,3 +15,11 @@ print(b.ndim)
 print(b.shape)
 print(b.dtype)
 print(b.itemsize)
+
+print()
+print()
+
+c = np.array([[[1,2],[3,4]],[[5,6],[7,8]]])
+print(c)
+print(c.shape)
+print(c.ndim)
